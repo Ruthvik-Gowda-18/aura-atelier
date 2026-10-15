@@ -1,0 +1,23 @@
+{
+  "name": "aura-atelier",
+  "version": "1.0.0",
+  "description": "Aura Atelier — Full-Stack MERN Luxury E-Commerce Platform",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "backend": "node backend/index.js",
+    "seed": "npm --prefix backend run seed",
+    "build": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "ecommerce",
+    "mern",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb",
+    "razorpay",
+    "luxury"
+  ],
+  "author": "Ruthvik Gowda",
+  "license": "MIT"
+}
