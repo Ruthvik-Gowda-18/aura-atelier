@@ -19,5 +19,9 @@
     "luxury"
   ],
   "author": "Ruthvik Gowda",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ruthvik-Gowda-18/aura-atelier.git"
+  }
 }

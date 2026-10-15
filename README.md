@@ -88,7 +88,7 @@ Clone your repository and install dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/aura-atelier.git
+git clone https://github.com/Ruthvik-Gowda-18/aura-atelier.git
 cd aura-atelier
 
 # Install dependencies for both backend and frontend
@@ -167,7 +167,7 @@ The application will be live at:
 ## 👤 Author
 
 **Ruthvik Gowda**
-- **GitHub**: [@ruthvikgowda](https://github.com/ruthvikgowda)
+- **GitHub**: [@Ruthvik-Gowda-18](https://github.com/Ruthvik-Gowda-18)
 
 ---
 
